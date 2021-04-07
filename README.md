@@ -2,7 +2,7 @@
 
 Hi there, Roberto here. 
 
-🔭 Currently, I'm working as Software Engineer Lead in Tokopedia, focus on Backaend stuff in search module - such as search bar content, autocomplete, and matching.   
+🔭 Currently, I'm working as Software Engineer Lead in Tokopedia, focus on backend stuff in search module - such as search bar content, autocomplete, and matching.   
 📝 I sometime write articles when I'm on the <i>mood</i>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robertotambunan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robertotambunan/2" alt="Recent Article 2"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robertotambunan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robertotambunan/1" alt="Recent Article 1"></a>
